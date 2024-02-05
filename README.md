@@ -3,3 +3,4 @@
 - [【AWS】アカウントを跨いてリソースにアクセスする方法：Assume Role](./aws/%E3%80%90AWS%E3%80%91%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%82%92%E8%B7%A8%E3%81%84%E3%81%A6%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%EF%BC%9AAssume%20Role.md)
 # Golang
 - [slog入門](./golang/%E3%80%90golang%E3%80%91%20slog%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E5%85%A5%E9%96%80.md)
+- [【golang】 Golandのdebuggerができない件](./golang/%E3%80%90golang%E3%80%91%20Goland%E3%81%AEdebugger%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E4%BB%B6.md)
