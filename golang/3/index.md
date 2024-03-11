@@ -39,7 +39,7 @@ version: "3"
 services:
   server:
     build:
-      context: .
+      context: ..
       dockerfile: ./Dockerfile
     ports:
       - "8081:8080"
@@ -106,7 +106,7 @@ GopherはVScode・Golandを主に使うようです。うちの会社のメン�
 
 ## 設定
 
-![Untitled](../stocks/images/go_remote_debug.png)
+![Untitled](../../stocks/images/go_remote_debug.png)
 
 1. Run > Edit Configurations
 2. ＋ > Go Remote
