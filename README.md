@@ -8,3 +8,4 @@
 - [【golang】 Golandのdebuggerができない件](./golang/2/index.md)
 - [【golang】docker containerのソースコードをdebugしてみる](./golang/3/index.md)
 - [【golang】 golangのAOPとProxy Pattern](./golang/4/index.md)
+- [【golang】 deferの挙動](./golang/5/index.md)
